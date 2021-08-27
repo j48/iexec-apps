@@ -1,2 +1,2 @@
-# iexec-apps-v6
-iExec apps for v6
+# iexec-apps
+iExec apps
